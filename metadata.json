@@ -1,0 +1,6 @@
+{
+  "name": "Game Deals Scraper and Dashboard",
+  "description": "A full-stack web application that scrapes real-time video game sales, filters deals, highlights the best discounts, and features an AI Deal Analyst using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
